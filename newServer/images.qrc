@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/actions">
+        <file>icons/about.png</file>
+        <file>icons/connect.png</file>
+        <file>icons/disconnect.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/sendfile.png</file>
+        <file>icons/blue.png</file>
+        <file>icons/history.png</file>
+        <file>icons/network.png</file>
+        <file>icons/windowicon.png</file>
+    </qresource>
+</RCC>

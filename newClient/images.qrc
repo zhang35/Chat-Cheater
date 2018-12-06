@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/actions">
+        <file>icons/connect.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/sendfile.png</file>
+        <file>icons/about.png</file>
+        <file>icons/disconnect.png</file>
+        <file>icons/lock.png</file>
+        <file>icons/shutdown.png</file>
+        <file>icons/super.png</file>
+        <file>icons/unlock.png</file>
+        <file>icons/process.png</file>
+        <file>icons/killpocess.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/fullscreen.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/start.png</file>
+        <file>icons/blue.png</file>
+        <file>icons/history.png</file>
+        <file>icons/dir.png</file>
+        <file>icons/file.png</file>
+        <file>icons/jordan.png</file>
+        <file>icons/windowicon.png</file>
+    </qresource>
+</RCC>
